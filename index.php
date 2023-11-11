@@ -396,33 +396,187 @@
         </div>
     </div>
 
+    <!-- Our Facilities -->
 
-    <br><br><br>
-    <br><br><br>
+    <h2 class="mt-5 pt-4 mb-4 text-center fw-bold h-font">OUR FACILITIES</h2>
 
-    <div class="container-fluid">
-        <div class="swiper swiper-container">
-        <div class="swiper-wrapper">
-        <div class="swiper-slide">
-            <img src="images/carousel/3.png" class="w-100 d-block"/>
-        </div>
-        <div class="swiper-slide">
-            <img src="images/carousel/5.png" class="w-100 d-block"/>
-        </div>
-        <!-- <div class="swiper-slide">
-            <img src="images/carousel/1.png" class="w-100 d-block"/>
-        </div>
-        <div class="swiper-slide">
-            <img src="images/carousel/2.png" class="w-100 d-block"/>
-        </div>
-        <div class="swiper-slide">
-            <img src="images/carousel/4.png" class="w-100 d-block"/>
-        </div>
-        <div class="swiper-slide">
-            <img src="images/carousel/6.png" class="w-100 d-block"/>
-        </div> -->
+    <div class="container">
+        <div class="row justify-content-evenly px-lg-0 px-md-0 px-5">
+            <div class="col-lg-2 col-md-2 text-center bg-white rounded shadow py-4 my-3">
+                <img src="images/features/wifi.jpg" width="80px">
+                <h5 class="mt-3">Wi-Fi</h5>
+            </div>
+            <div class="col-lg-2 col-md-2 text-center bg-white rounded shadow py-4 my-3">
+                <img src="images/features/wifi.jpg" width="80px">
+                <h5 class="mt-3">Wi-Fi</h5>
+            </div>
+            <div class="col-lg-2 col-md-2 text-center bg-white rounded shadow py-4 my-3">
+                <img src="images/features/wifi.jpg" width="80px">
+                <h5 class="mt-3">Wi-Fi</h5>
+            </div>
+            <div class="col-lg-2 col-md-2 text-center bg-white rounded shadow py-4 my-3">
+                <img src="images/features/wifi.jpg" width="80px">
+                <h5 class="mt-3">Wi-Fi</h5>
+            </div>
+            <div class="col-lg-2 col-md-2 text-center bg-white rounded shadow py-4 my-3">
+                <img src="images/features/wifi.jpg" width="80px">
+                <h5 class="mt-3">Wi-Fi</h5>
+            </div>
+            <div class="col-lg-12 text-center mt-5">
+                <a href="#" class="btn btn-sm btn-outline-dark rounded-0 fw-bold shadow-none">More Facilites >>></a>
+            </div>
+
         </div>
     </div>
+
+    <!-- Testimonials -->
+
+    <h2 class="mt-5 pt-4 mb-4 text-center fw-bold h-font">TESTIMONIALS</h2>
+
+    <div class="container mt-5">
+    <div class="swiper swiper-testimonials">
+    <div class="swiper-wrapper">
+
+      <div class="swiper-slide bg-white p-4">
+        <div class="profile d-flex align-items-center mb-3">
+            <img src="images/features/star.png" width="30px">
+            <h6 class="m-0 ms-2">Random User1</h6>
+        </div>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, distinctio reprehenderit.
+            Doloremque fuga sint quos obcaecati veritatis perspiciatis quidem provident!
+        </p>
+        <div class="rating">
+            <i class="bi bi-star-fill text-warning"></i>
+            <i class="bi bi-star-fill text-warning"></i>
+            <i class="bi bi-star-fill text-warning"></i>
+            <i class="bi bi-star-fill text-warning"></i>
+        </div>
+      </div>
+      <div class="swiper-slide bg-white p-4">
+        <div class="profile d-flex align-items-center mb-3">
+            <img src="images/features/star.png" width="30px">
+            <h6 class="m-0 ms-2">Random User1</h6>
+        </div>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, distinctio reprehenderit.
+            Doloremque fuga sint quos obcaecati veritatis perspiciatis quidem provident!
+        </p>
+        <div class="rating">
+            <i class="bi bi-star-fill text-warning"></i>
+            <i class="bi bi-star-fill text-warning"></i>
+            <i class="bi bi-star-fill text-warning"></i>
+            <i class="bi bi-star-fill text-warning"></i>
+        </div>
+      </div>
+      <div class="swiper-slide bg-white p-4">
+        <div class="profile d-flex align-items-center mb-3">
+            <img src="images/features/star.png" width="30px">
+            <h6 class="m-0 ms-2">Random User1</h6>
+        </div>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, distinctio reprehenderit.
+            Doloremque fuga sint quos obcaecati veritatis perspiciatis quidem provident!
+        </p>
+        <div class="rating">
+            <i class="bi bi-star-fill text-warning"></i>
+            <i class="bi bi-star-fill text-warning"></i>
+            <i class="bi bi-star-fill text-warning"></i>
+            <i class="bi bi-star-fill text-warning"></i>
+        </div>
+      </div>
+
+    </div>
+
+            <div class="swiper-pagination"></div>
+        </div>
+        <div class="col-lg-12 text-center mt-5">
+            <a href="#" class="btn btn-sm btn-outline-dark rounded-0 fw-bold shadow-none">Know More >>></a>
+        </div>
+    </div>
+
+     <!-- Reach Us -->
+    
+     <h2 class="mt-5 pt-4 mb-4 text-center fw-bold h-font">REACH US</h2>
+
+     <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-8 p-4 mb-lg-0 mb-3 bg-white rounded">
+                <iframe class="w-100 rounded" height="320px" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d230661.04484231502!2d81.6367733161178!3d25.402171897790073!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x398534c9b20bd49f%3A0xa2237856ad4041a!2sPrayagraj%2C%20Uttar%20Pradesh!5e0!3m2!1sen!2sin!4v1699615366157!5m2!1sen!2sin" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+            <div class="col-lg-4 col-lg-md-4">
+                <div class="bg-white p-4 rounded mb-4">
+                    <h5>Call Us</h5>
+                    <a href="tel: +91 9999888890" class="d-inline-block mb-2 text-decoration-none text-dark">
+                        <i class="bi bi-telephone-fill"></i> +91 9999888890
+                    </a>
+                    <br>
+                    <a href="tel: +91 9999888890" class="d-inline-block text-decoration-none text-dark">
+                        <i class="bi bi-telephone-fill"></i> +91 9999888890
+                    </a>
+                </div>
+                <div class="bg-white p-4 rounded mb-4">
+                    <h5>Follow Us</h5>
+                    <a href="#" class="d-inline-block mb-3">
+                        <span class="badge bg-light text-dark fs-6 p-2">
+                            <i class="bi bi-instagram me-1"></i> Instagram
+                        </span>
+                    </a>
+                    <br>
+                    <a href="#" class="d-inline-block mb-3">
+                        <span class="badge bg-light text-dark fs-6 p-2">
+                            <i class="bi bi-facebook me-1"></i> Facebook
+                        </span>
+                    </a>
+                    <br>
+                    <a href="#" class="d-inline-block">
+                        <span class="badge bg-light text-dark fs-6 p-2">
+                            <i class="bi bi-youtube"></i> Youtube
+                        </span>
+                    </a>
+                    <br>
+                </div>
+            </div>
+        </div>
+     </div>
+
+     <!-- Footer -->
+
+     <div class="container-fluid bg-white mt-4">
+        <div class="row">
+            <div class="col-lg-4 p-4">
+                <h3 class="h-font fw-bold fs-3 mb-2">Tour Package</h3>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                    Molestias tenetur fugit autem numquam nam eum sunt? Dicta vitae excepturi ipsa. 
+                    Impedit aliquid alias adipisci, sit animi voluptate? Eos, dolorum itaque.
+                </p>
+            </div>
+            <div class="col-lg-4 p-4">
+                <h5 class="mb-3">Links</h5>
+                <a href="#" class="d-inline-block mb-2 text-dark text-decoration-none">Home</a><br>
+                <a href="#" class="d-inline-block mb-2 text-dark text-decoration-none">Rooms</a><br>
+                <a href="#" class="d-inline-block mb-2 text-dark text-decoration-none">Facilites</a><br>
+                <a href="#" class="d-inline-block mb-2 text-dark text-decoration-none">Contact Us</a><br>
+                <a href="#" class="d-inline-block mb-2 text-dark text-decoration-none">About</a>
+            </div>
+            <div class="col-lg-4 p-4">
+                <h5 class="mb-3">Follow Us</h5>
+                <a href="#" class="d-inline-block text-dark text-decoration-none mb-2">
+                    <i class="bi bi-instagram me-1"></i> Instagram
+                </a><br>
+                <a href="#" class="d-inline-block text-dark text-decoration-none mb-2">
+                    <i class="bi bi-facebook me-1"></i> Facebook
+                </a><br>
+                <a href="#" class="d-inline-block text-dark text-decoration-none">
+                    <i class="bi bi-youtube me-1"></i> Youtube
+                </a><br>
+            </div>
+        </div> 
+     </div>
+
+     <h6 class="text-center bg-dark text-white p-3 m-0">Designed and Developed by <i class="bi bi-bootstrap-fill"></i></h6>
+
     
     </div>
 
@@ -437,6 +591,39 @@
         autoplay:{
             delay:3500,
             disableOnInteraction: false,
+        }
+        });
+
+        var swiper = new Swiper(".swiper-testimonials", {
+        effect: "coverflow",
+        grabCursor: true,
+        centeredSlides: true,
+        slidesPerView: "auto",
+        slidesPerView:"3",
+        loop: true,
+        coverflowEffect: {
+            rotate: 50,
+            stretch: 0,
+            depth: 100,
+            modifier: 1,
+            slideShadows: false,
+        },
+        pagination: {
+            el: ".swiper-pagination",
+        },
+        breakpoints:{
+            320:{
+                slidesPerView: 1,
+            },
+            640:{
+                slidesPerView: 1,
+            },
+            768:{
+                slidesPerView: 2,
+            },
+            1024:{
+                slidesPerView: 3,
+            },
         }
         });
   </script>
