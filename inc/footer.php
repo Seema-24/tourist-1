@@ -3,9 +3,7 @@
         <div class="col-lg-4 p-4">
             <h3 class="h-font fw-bold fs-3 mb-2">Tour Package</h3>
             <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Molestias tenetur fugit autem numquam nam eum sunt? Dicta vitae excepturi ipsa.
-                Impedit aliquid alias adipisci, sit animi voluptate? Eos, dolorum itaque.
+                One of the India’s leading startup Travel India specializes in offering the best holiday packages and tour services in India.
             </p>
         </div>
         <div class="col-lg-4 p-4">
