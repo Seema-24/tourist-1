@@ -17,7 +17,7 @@
     <div class="my-4 text-center">
         <h4 class="h-font fw-bold fs-2">CONTACT US</h4>
         <div class="h-line bg-dark"></div>
-        <p class="mt-3">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magnam numquam illum deserunt?<br> In error blanditiis voluptatum nesciunt, neque consectetur maiores.</p>
+        <p class="mt-3">For any help regarding India holiday packages,<br> fill following enquiry form and we will get back to you soon.</p>
     </div>
     <div class="container mt-5">
         <div class="row">
@@ -28,14 +28,14 @@
                     <a class="badge rounded-pill fs-6 bg-light text-decoration-none text-dark d-inline-block mb-4 text-start text-wrap lh-base"   target="_blank"><i class="bi bi-geo-alt-fill"></i> XYZ, Parayaj, Uttarpradesh</a>
                     <h4>Call us</h4>
                     <a href="#" class="badge rounded-pill fs-6 bg-light text-decoration-none text-dark d-inline-block mb-2">
-                        <i class="bi bi-telephone-fill"></i> +91212133
+                        <i class="bi bi-telephone-fill"></i> +91 9999999999
                     </a>
                     <br>
                    
                     <h4>Email</h4>
                     <a href="mailto: seeem@gmail.com" class="text-wrap lh-base badge rounded-pill fs-6 bg-light text-decoration-none text-dark d-inline-block mb-4">
                         <i class="bi bi-envelope-fill"></i>
-                        seema.gmail.com
+                        xyz@gmail.com
                     </a>
                     <h4>Follow us</h4>
                     <a href="#" class="d-inline-block text-dark me-2 fs-5">
@@ -51,7 +51,7 @@
             </div>
             <div class="col-lg-6 px-3">
                 <div class="p-4 bg-white rounded shadow ">
-                    <h4 class="mb-4 border-bottom border-3 border-dark pb-2">Contact Us Form</h4>
+                    <h4 class="mb-4 border-bottom border-3 border-dark pb-2">Send us a message</h4>
                     <form novalidate id="contact_us_form">
                         <div class="mb-3 ps-0">
                             <label class="form-label">Name</label>
