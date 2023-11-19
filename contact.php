@@ -38,13 +38,13 @@
                         xyz@gmail.com
                     </a>
                     <h4>Follow us</h4>
-                    <a href="#" class="d-inline-block text-dark me-2 fs-5">
+                    <a href="https://www.instagram.com" class="d-inline-block text-dark me-2 fs-5">
                         <i class="bi bi-instagram me-1"></i>
                     </a>
-                    <a href="#" class="d-inline-block text-dark me-2 fs-5">
+                    <a href="https://www.facebook.com" class="d-inline-block text-dark me-2 fs-5">
                         <i class="bi bi-facebook me-1"></i>
                     </a>
-                    <a href="#" class="d-inline-block text-dark fs-5">
+                    <a href="https://www.youtube.com" class="d-inline-block text-dark fs-5">
                         <i class="bi bi-youtube me-1"></i>
                     </a>
                 </div>

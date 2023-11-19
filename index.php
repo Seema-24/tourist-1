@@ -40,6 +40,12 @@
                     <img src="images/carousel/3.jpg" class="w-100 d-block" width="1200" height="400" />
                 </div>
                 <div class="swiper-slide">
+                    <img src="images/carousel/9.png" class="w-100 d-block" width="1200" height="400" />
+                </div>
+                <div class="swiper-slide">
+                    <img src="images/carousel/10.png" class="w-100 d-block" width="1200" height="400" />
+                </div>
+                <div class="swiper-slide">
                     <img src="images/carousel/4.jpg" class="w-100 d-block" width="1200" height="400" />
                 </div>
                 <div class="swiper-slide">
@@ -50,6 +56,12 @@
                 </div>
                 <div class="swiper-slide">
                     <img src="images/carousel/7.jpg" class="w-100 d-block" width="1200" height="400" />
+                </div>
+                <div class="swiper-slide">
+                    <img src="images/carousel/8.png" class="w-100 d-block" width="1200" height="400" />
+                </div>
+                <div class="swiper-slide">
+                    <img src="images/carousel/11.png" class="w-100 d-block" width="1200" height="400" />
                 </div>
             </div>
         </div>
@@ -96,7 +108,7 @@
     </div>
 
     <!-- Our Rooms -->
-    <h2 class="mt-5 pt-4 mb-4 text-center fw-bold h-font">Famous TOURS</h2>
+    <h2 class="mt-5 pt-4 mb-4 text-center fw-bold h-font">OUR TOURS</h2>
     <div class="container">
         <div class="row">
             <div class="col-lg-4 col-md-6 my-3">
@@ -259,7 +271,7 @@
             </div>
 
             <div class="col-lg-12 text-center mt-5">
-                <a href="#" class="btn btn-sm btn-outline-dark rounded-0 fw-bold shadow-none">More Rooms >>></a>
+                <a href="tour.php" class="btn btn-sm btn-outline-dark rounded-0 fw-bold shadow-none">More Tours >>></a>
             </div>
         </div>
     </div>
@@ -375,19 +387,19 @@
                 </div>
                 <div class="bg-white p-4 rounded mb-4">
                     <h5>Follow Us</h5>
-                    <a href="#" class="d-inline-block mb-3">
+                    <a href="https://www.instagram.com" class="d-inline-block mb-3">
                         <span class="badge bg-light text-dark fs-6 p-2">
                             <i class="bi bi-instagram me-1"></i> Instagram
                         </span>
                     </a>
                     <br>
-                    <a href="#" class="d-inline-block mb-3">
+                    <a href="https://www.facebook.com" class="d-inline-block mb-3">
                         <span class="badge bg-light text-dark fs-6 p-2">
                             <i class="bi bi-facebook me-1"></i> Facebook
                         </span>
                     </a>
                     <br>
-                    <a href="#" class="d-inline-block">
+                    <a href="https://www.youtube.com" class="d-inline-block">
                         <span class="badge bg-light text-dark fs-6 p-2">
                             <i class="bi bi-youtube"></i> Youtube
                         </span>
