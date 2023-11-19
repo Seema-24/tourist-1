@@ -2,15 +2,18 @@
 
     function adminLogin(){
         session_start();
-        if(isset($_SESSION['adminLogin']) && $_SESSION['adminLogin']==true) {
-            
+        if(!(isset($_SESSION['adminLogin']) && $_SESSION['adminLogin'] == true)) {
+            header('location:index.php'); #another way for redirect url
         }
+        session_regenerate_id(true);
     }
 
     function redirect($url){
-        echo"<script>
+        echo"
+            <script>
                 window.location.href='$url';
-            </script>";
+            </script>
+        ";
     }
 
     function alert($type,$msg){
