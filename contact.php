@@ -9,10 +9,8 @@
 </head>
 
 <body class="bg-light">
-
     <?php require("./inc/header.php") ?>
-
-
+    
     <!-- Contact us -->
     <div class="my-4 text-center">
         <h4 class="h-font fw-bold fs-2">CONTACT US</h4>
