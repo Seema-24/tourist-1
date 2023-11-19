@@ -314,11 +314,11 @@
                 <div class="swiper-slide bg-white p-4">
                     <div class="profile d-flex align-items-center mb-3">
                         <img src="images/features/star.png" width="30px">
-                        <h6 class="m-0 ms-2">Random User1</h6>
+                        <h6 class="m-0 ms-2">Roshan Gupta</h6>
                     </div>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, distinctio reprehenderit.
-                        Doloremque fuga sint quos obcaecati veritatis perspiciatis quidem provident!
+                        <strong>Great Tour!</strong> </br>
+                        Great tour! Super informative! Clear English! Helped navigate all of the sight and took many great photos of our group!
                     </p>
                     <div class="rating">
                         <i class="bi bi-star-fill text-warning"></i>
@@ -330,11 +330,11 @@
                 <div class="swiper-slide bg-white p-4">
                     <div class="profile d-flex align-items-center mb-3">
                         <img src="images/features/star.png" width="30px">
-                        <h6 class="m-0 ms-2">Random User1</h6>
+                        <h6 class="m-0 ms-2">Unknown User</h6>
                     </div>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, distinctio reprehenderit.
-                        Doloremque fuga sint quos obcaecati veritatis perspiciatis quidem provident!
+                        <strong>Taj tour</strong></br>
+                        Amazing tour!! Our entire trip was very organized. Guides were on time, patient, easy to understand and polite.
                     </p>
                     <div class="rating">
                         <i class="bi bi-star-fill text-warning"></i>
@@ -346,11 +346,12 @@
                 <div class="swiper-slide bg-white p-4">
                     <div class="profile d-flex align-items-center mb-3">
                         <img src="images/features/star.png" width="30px">
-                        <h6 class="m-0 ms-2">Random User1</h6>
+                        <h6 class="m-0 ms-2">Seema Kumari</h6>
                     </div>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, distinctio reprehenderit.
-                        Doloremque fuga sint quos obcaecati veritatis perspiciatis quidem provident!
+                        <strong>Best Private Tour Ever</strong></br>
+                        We had a wonderful tour with Vishal Garg. We explored the Taj Mahal and the Agra Fort. 
+                        He was very knowledgeable and we had a great experience
                     </p>
                     <div class="rating">
                         <i class="bi bi-star-fill text-warning"></i>
