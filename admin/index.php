@@ -30,7 +30,7 @@
             </div>
             <button name="login" type="submit">LOGIN</button>
             <div>
-                <a href="../index.php">Back to Home</a>
+                <a href="../index.php" class="col-lg-12 text-center">Back to Home</a>
             </div>
         </form>
     </div>

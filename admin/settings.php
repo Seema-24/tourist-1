@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <meta http-eqiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Admin Panel - Dashboard</title>
+    <title>Admin Panel - Settings</title>
     <?php require('inc/links.php'); ?>
 </head>
 <body class="bg-light">
