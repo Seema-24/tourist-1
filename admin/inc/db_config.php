@@ -22,7 +22,8 @@
         return $data;
     }
 
-    function select($query,$values,$datatypes) {
+    function select($query,$values,$datatypes)
+    {
         $con = $GLOBALS['con'];
         # first we have to prepare the query
         if($stmt = mysqli_prepare($con,$query)) {
@@ -45,6 +46,31 @@
             }
         } else {
             die("Query cannot be prepared - Select");
+        }
+    }
+
+    function update($query,$values,$datatypes)
+    {
+        $con = $GLOBALS['con'];
+        # first we have to prepare the query
+        if($stmt = mysqli_prepare($con,$query)) {
+            # second we have to bind values with query
+            if(mysqli_stmt_bind_param($stmt,$datatypes,...$values)){  #splat operator for give multi value
+                # third we have to execute the query
+                if(mysqli_stmt_execute($stmt)) {
+                    # fourth we have to get the result of executed query
+                    $res = mysqli_stmt_affected_rows($stmt);
+                    #and lastly return the $res variable that contains all rows of the table
+                    mysqli_stmt_close($stmt);
+                    return $res;
+                } 
+                else {
+                    mysqli_stmt_close($stmt);
+                    die("Query cannot be executed - Update");
+                }
+            } 
+        } else {
+            die("Query cannot be prepared - Update");
         }
     }
 
